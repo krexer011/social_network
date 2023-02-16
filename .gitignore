@@ -1,0 +1,5 @@
+env/
+local_settings/
+media/
+**/__pycache__/
+*.pyc
